@@ -270,3 +270,8 @@ img {
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
+.container-about-page {
+    display: flex;
+    
+}
