@@ -57,18 +57,17 @@ html, body {
 }
 
 .Lambda {
-    display: flex;
-    justify-content: flex-start;
+    display: inline-block;
+
 }
 
 .highway {
-    display: flex;
-    justify-content: space-around;
+    margin-left: 30%;
 }
 
 nav {
-    align-items: flex-end;
-
+    display: flex;
+    justify-content: flex-end;
 }
 
 
