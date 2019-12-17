@@ -72,7 +72,7 @@ nav {
     margin-right: 10%;
     padding: 20px;
     color: black;
-    
+
 }
 
 h1, h2, h3, h4, h5 {
@@ -276,5 +276,14 @@ img {
 
 .container-about-page {
     display: flex;
-    
+    flex-wrap: wrap;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.containerone {
+
+    flex-direction: column;
+    flex-wrap: wrap;
+
 }
