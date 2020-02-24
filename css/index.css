@@ -263,12 +263,17 @@ h2 {
 
 .middle-about button {
     margin-top: 3%;
-    border-radius: 10%;
+    border-radius: 10px;
 }
 
 
 .middle-about div {
     width: 50%;
+}
+
+.final {
+    margin-top: 10%;
+    padding-bottom: 10%;
 }
 
 footer {
