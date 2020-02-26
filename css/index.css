@@ -56,7 +56,7 @@ html, body {
     font-family: 'Roboto', sans-serif;
 }
 
-.Lambda {
+/* .Lambda {
     display: inline-block;
     margin-left: 30%;
 
@@ -64,16 +64,16 @@ html, body {
 
 .highway {
     margin-left: 30%;
-}
+} */
 
-nav {
+/* nav {
     display: inline-block;
     width: 50%;
     margin-right: 10%;
     padding: 20px;
     color: black;
 
-}
+} */
 
 h1, h2, h3, h4, h5 {
     font-size: 18px;
@@ -155,14 +155,14 @@ a {
 
 
 .middle-content .boxes .box2 {
-        width: 12.5%;
-        height: 100px;
-        background: gold;
-        margin: 20px 2.5%;
-        color: white;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+    width: 12.5%;
+    height: 100px;
+    background: gold;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .middle-content .boxes .box3 {
@@ -317,7 +317,7 @@ footer nav a {
     text-decoration: none;
 }
 
-img {
+/* img {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -338,4 +338,4 @@ div {
     align-content: center;
     margin-left: 10%;
     margin-right: 10%;
-}
+} */
